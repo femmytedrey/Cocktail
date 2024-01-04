@@ -6,7 +6,7 @@ export const Footer = () => {
     <section>
         <div className='footer-container'>
             <span className='circle'>c</span>
-            <p className='footer'>2024</p>
+            <p className='footer'>2024 - FemiDev</p>
         </div>
     </section>
   )
