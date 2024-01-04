@@ -10,7 +10,7 @@ const Navbar = () => {
           <img src={logo} alt='clocktail db logo' className='logo'/>
         </Link>
         <ul className='nav-links'>
-          <li>
+          <li className='removeHome'>
             <Link to='/'>
               Home
             </Link>

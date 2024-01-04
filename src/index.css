@@ -409,3 +409,10 @@ Cocktail
     height: 5em;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .removeHome{
+    display: none;
+  }
+}
+
